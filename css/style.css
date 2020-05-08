@@ -1,0 +1,194 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul li{
+    list-style-type: none;
+    
+
+}
+
+li a {
+    text-decoration: none;
+    border: 1px solid transparent;
+    border-radius: 40px;
+    padding: 10px 15px 10px 15px !important;
+
+}
+
+.margin
+{
+    padding: 1px 5px;
+}
+ .navbar-nav a:hover{
+    background-color: #007bff;
+    color: rgb(255, 255, 255) !important ;
+
+   
+    
+}
+
+
+    /* top navbar css start */
+
+.social i{
+    padding: 0px 10px;
+    color: #fff;
+}
+.social a{
+    text-decoration: none;
+
+}
+
+    /* top navbar css end */
+         
+            /* marquee start */
+
+.mar1 marquee {
+    
+    padding: 0px;
+    background-color: royalblue;
+    color: #fff;
+}
+marquee p{
+    padding: 0;
+    margin: 0;
+}
+.green{
+    color : greenyellow;
+}
+.blue{
+    color:rgb(51, 51, 151);
+}
+
+        /* marquee end */
+ 
+        /* introduction Start */
+ .main_title{
+        text-align: center;
+        margin-top: 60px;
+        color: #316dc3;
+ } 
+ .saprate{
+     width: 40px;
+     height: 3px;
+     background-color: rgb(12, 136, 12);
+     display: inline-block;
+
+ }
+ .main_title1{
+    text-align: center;
+    margin: 15px 0px;
+    
+ }
+
+ .center{
+     text-align: justify;
+     margin-bottom: 40px;
+     padding: 5px;
+ }
+
+    /* introduction end*/
+
+
+
+        /* What we Are doing Start */
+
+ .we_doing{
+     color:#316dc3;
+ }
+/* .bkg{
+   
+    
+    padding: ;
+}   
+.wid{
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+} */
+
+
+
+
+        /* What we Are doing end */
+
+
+        /* upcoming Project start */
+
+ .spa{
+    width: 70px;
+    height: 3px;
+    background-color: rgb(12, 136, 12);
+    display: block;
+ }   
+ 
+ .just{
+     justify-content: space-around;
+ }
+ .pro{
+     background-color: rgb(238, 237, 237);
+ }
+ .project marquee{
+     height: 200px;
+    text-align: justify;
+    
+ }
+ .size{
+     font-size: small;
+     width: 300px;
+ }
+
+        /* upcoming Project end */
+
+
+        /* image gallery start */
+
+.image_gallery img{
+    width: 200px;
+    padding: 2px;
+    filter: grayscale(0);
+    transition: 1s;
+}
+
+.image_gallery img:hover{
+
+    filter: grayscale(100%);
+    transform:scale(1.1) ;
+
+
+}
+           /* image gallery end */
+
+.footer{
+    color: rgb(197, 194, 194);
+    background-color: #333333;
+    margin-top: 200px;
+    padding: 150px 0px 60px 0;
+    font-size: small;
+}
+.connect{
+    color: #fff;
+    background-color: #316dc3;
+    border-radius: 50%;
+    border: 1px solid gray;
+    padding: 8px;
+    margin-top: 10px;
+}
+
+.copy{
+    background-color: #316dc3;
+    font-size: small;
+    color: #fff;
+
+}
+
+
+
+     
+
+
